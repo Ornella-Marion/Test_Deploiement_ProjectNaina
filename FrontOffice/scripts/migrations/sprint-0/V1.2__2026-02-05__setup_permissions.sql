@@ -72,3 +72,4 @@ VALUES ('1.2', 'Configuration des permissions et rôles', 'V1.2__2026-02-05__set
 INSERT INTO production.schema_version (version, description, script_name) 
 VALUES ('1.2', 'Configuration des permissions et rôles', 'V1.2__2026-02-05__setup_permissions.sql');
 
+insert into
